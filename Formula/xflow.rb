@@ -1,8 +1,8 @@
 class Xflow < Formula
   desc "Fast voice dictation for developers, from the terminal"
   homepage "https://github.com/itsmrad/xflow"
-  url "https://github.com/itsmrad/xflow/releases/download/v0.2.0-beta/xflow-0.2.0-beta-universal-apple-darwin.tar.gz"
-  sha256 "f4b84289ca1618abc7c1fb677fc7b7770b4fe487b3a0c135c9d6917aaf72a0ab"
+  url "https://github.com/itsmrad/xflow/releases/download/v0.2.1-beta/xflow-0.2.1-beta-universal-apple-darwin.tar.gz"
+  sha256 "2144bd39feebe70f0203592ff39e3e44039d0f44f66e6194354d8b755967504b"
   license "MIT"
 
   depends_on macos: :ventura
